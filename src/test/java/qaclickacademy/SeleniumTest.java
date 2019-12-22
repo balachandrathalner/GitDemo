@@ -66,6 +66,8 @@ public class SeleniumTest {
 		System.out.println("mobUI");
 
 	}
-
+@Test 
+public void helo(){
+System.out.println("helo");
 
 }
