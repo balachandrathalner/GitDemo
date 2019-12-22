@@ -71,3 +71,8 @@ public void helo(){
 System.out.println("helo");
 
 }
+@Test 
+public void helobalu(){
+System.out.println("helobalu");
+
+}
