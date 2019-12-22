@@ -55,4 +55,10 @@ public class SeleniumTest {
 
 	}
 
+	@Test
+	public void webUI() {
+		System.out.println("webUI");
+
+	}
+
 }
