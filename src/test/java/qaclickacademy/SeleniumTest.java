@@ -61,4 +61,11 @@ public class SeleniumTest {
 
 	}
 
+	@Test
+	public void mobileUI() {
+		System.out.println("mobUI");
+
+	}
+
+
 }
